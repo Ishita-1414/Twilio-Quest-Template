@@ -1,0 +1,14 @@
+{
+  "title": "Multiples of 3 and 5",
+  "validation_fields": [
+    {
+      "name": "answer2",
+      "type": "Number",
+      "placeholder": "",
+      "label": "Output"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Even Fibonnaci Numbers",
+  "validation_fields": [
+    {
+      "name": "answer2",
+      "type": "Number",
+      "placeholder": "0",
+      "label": "Output"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}
