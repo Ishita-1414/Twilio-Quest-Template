@@ -9,7 +9,7 @@
 </div>
 
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.<br>
-<centre><img src="img.png"></centre><br>
+<centre><img src="https://raw.githubusercontent.com/Ishita-1414/Twilio-Quest-Template/master/levels/vr_mission_template/objectives/SumPath/img.PNG"></centre><br>
 
 That is, 3 + 7 + 4 + 9 = 23.<br>
 
