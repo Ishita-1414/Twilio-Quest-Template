@@ -4,7 +4,7 @@
     {
       "name": "answer2",
       "type": "Number",
-      "placeholder": "",
+      "placeholder": 0,
       "label": "Output"
     }
   ],
