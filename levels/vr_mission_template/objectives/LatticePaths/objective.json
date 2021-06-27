@@ -4,8 +4,8 @@
     {
       "name": "answer1",
       "type": "Number",
-      "placeholder": "Output",
-      "label": 0
+      "placeholder": 0,
+      "label": "Output"
     }
   ],
   "rewards": {
