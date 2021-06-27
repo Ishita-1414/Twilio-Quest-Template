@@ -29,8 +29,7 @@ module.exports = async function (helper) {
     assert.strictEqual(Number(233168), Number(answer2));
   }catch(e){
     return helper.fail(`
-      The second answer you provided was either not a number, or not the
-      correct response for "what is 2 + 2".
+      Wrong Output!
     `);
   }
 

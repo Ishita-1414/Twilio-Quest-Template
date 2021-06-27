@@ -143,7 +143,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective2"
+                         "value":"SumSquare"
                         }],
                  "rotation":0,
                  "type":"",
@@ -161,7 +161,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective2"
+                         "value":"Prime"
                         }],
                  "rotation":0,
                  "type":"",
@@ -242,7 +242,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective5"
+                         "value":"PrimeSum"
                         }],
                  "rotation":0,
                  "type":"",
@@ -265,7 +265,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective6"
+                         "value":"LargestProduct"
                         }],
                  "rotation":0,
                  "type":"",
@@ -288,7 +288,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective7"
+                         "value":"LatticePaths"
                         }],
                  "rotation":0,
                  "type":"",
@@ -306,7 +306,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective8"
+                         "value":"PowerDigit"
                         }],
                  "rotation":0,
                  "type":"",
@@ -324,7 +324,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective9"
+                         "value":"LetterCounts"
                         }],
                  "rotation":0,
                  "type":"",
@@ -342,7 +342,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective10"
+                         "value":"SumPath"
                         }],
                  "rotation":0,
                  "type":"",
@@ -360,7 +360,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective11"
+                         "value":"CountingSundays"
                         }],
                  "rotation":0,
                  "type":"",
@@ -378,7 +378,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective12"
+                         "value":"Factorial"
                         }],
                  "rotation":0,
                  "type":"",
@@ -396,7 +396,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective13"
+                         "value":"Amicable"
                         }],
                  "rotation":0,
                  "type":"",
@@ -414,7 +414,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective14"
+                         "value":"NonAbundant"
                         }],
                  "rotation":0,
                  "type":"",
@@ -432,7 +432,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective15"
+                         "value":"SmallestMultiple"
                         }],
                  "rotation":0,
                  "type":"",
@@ -450,7 +450,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective16"
+                         "value":"Palindrome"
                         }],
                  "rotation":0,
                  "type":"",
@@ -473,7 +473,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"example_objective17"
+                         "value":"PrimeFactor"
                         }],
                  "rotation":0,
                  "type":"",

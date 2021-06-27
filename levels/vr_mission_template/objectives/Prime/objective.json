@@ -1,0 +1,14 @@
+{
+  "title": "1001st Prime",
+  "validation_fields": [
+    {
+      "name": "answer2",
+      "type": "Number",
+      "placeholder": "233168",
+      "label": "Output"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}
