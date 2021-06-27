@@ -1,0 +1,14 @@
+{
+  "title": "Largest Palindrome Product",
+  "validation_fields": [
+    {
+      "name": "answer1",
+      "type": "Number",
+      "placeholder": "Output",
+      "label": 0
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Summation of Primes",
+  "validation_fields": [
+    {
+      "name": "answer1",
+      "type": "Number",
+      "placeholder": 0,
+      "label": "Output"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}
