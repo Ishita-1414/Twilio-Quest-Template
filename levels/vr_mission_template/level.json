@@ -1,7 +1,7 @@
 {
-  "title": "VR Mission Template",
-  "description": "This is an example of how to create a 'training mission' for the VR training environment aboard the Fog Owl!",
-  "mission_icon": "mission_icon.png",
+  "title": "Secrets of the Space Invaders",
+  "description": "Space Invaders (fancy pirates) have taken over your ship and locked you out of command room. The entire spaceship if full of obstacles and get get over them to reach the control room. Thankfully, all the challanges are mathematical and can be solved using your secret tool, Programming! ",
+  "mission_icon": "miss.png",
   "is_mission": true,
   "priority": 1,
   "backgroundMusic": "hackertheme_104771b",
