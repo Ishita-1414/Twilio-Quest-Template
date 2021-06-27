@@ -1,21 +1,16 @@
-# Example Objective
+# Digit factorials
 
 <div class="aside">
 <h3>To-Do List</h3>
 <ul>
-  <li>It's good to keep high level tasks here.</li>
-  <li>Let players know when to click <em>HACK</em>.</li>
+  <li>Write the code and execute it.</li>
+  <li>Write the output of the program in Text Box and click on <em>HACK</em>.</li>
 </ul>
 </div>
 
-Give players a little bit of information about what they need to do to hack past this objective. If you find yourself writing more than a few short paragraphs of text, it's likely your objective is too big!
+145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.<br>
 
-## You can make sub headers with more information
+Find the sum of all numbers which are equal to the sum of the factorial of their digits.<br>
 
-Some times you wan to talk about additional concepts beyond the high level goal that might help players accomplish the high level goal.
-
-```js
-const areCodeSamplesVeryHelpful = true;
-```
-
-Describe the final values for your player one last time. Then ask them to click the _HACK_ button.
+Note: As 1! = 1 and 2! = 2 are not sums they are not included.<br>
+<b>Solve it using your favorite programming language and provide its output.</b>
