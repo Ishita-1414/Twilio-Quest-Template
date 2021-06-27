@@ -267,7 +267,7 @@
                         {
                          "name":"objectiveName",
                          "type":"string",
-                         "value":"LargestProduct"
+                         "value":"SumSquare"
                         }],
                  "rotation":0,
                  "type":"",
