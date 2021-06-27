@@ -9,10 +9,10 @@
 </div>
 
 The sum of the squares of the first ten natural numbers is, 
-<br><centre>1<sub>2</sub>+2<sub>2</sub>+......+10<sub>2</sub>=385</centre>
+<br><centre>1<sup>2</sup>+2<sup>2</sup>+......+10<sup>2</sup>=385</centre>
 
 The square of the sum of the first ten natural numbers is,
-<br><centre>(1+2+....+10)<sub>2</sub>=55<sub>2</sub>=3025</centre>
+<br><centre>(1+2+....+10)<sup>2</sup>=55<sup>2</sup>=3025</centre>
 
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025-385=2640.
 
