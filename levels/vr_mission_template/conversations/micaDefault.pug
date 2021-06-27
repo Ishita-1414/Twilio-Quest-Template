@@ -1,4 +1,4 @@
-conversation(display_name="Ryan")
+conversation(display_name="Mica")
   case lastResponse
     when "nice_to_meet"
     when "you_seem_nice"
@@ -6,7 +6,7 @@ conversation(display_name="Ryan")
       responses
 
     when "who_are_you"
-      statement#ryan
+      statement#Mica
       responses
         response#nice_to_meet.
           Nice to meet you!
@@ -22,12 +22,12 @@ conversation(display_name="Ryan")
   statements
     statement#default
       text.
-        My name is Ryan. I am using a custom avatar image from "images/conversations". Neat, huh?
+        Welcome aboard the #[span.highlight Fog Owl!]
       speech.
         Welcome aboard the #[break(strength="medium")] Fog Owl!
-    statement#ryan
+    statement#Mica
       text.
-        ...as previously mentioned, my name is Ryan?
+        Hi there! My name is Mica, and I'm never gonna tell a lie. 
     statement#final
       text.
         Thank you!

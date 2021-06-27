@@ -1,4 +1,4 @@
-conversation(display_name="Megan")
+conversation(display_name="Kevin")
   case lastResponse
     when "nice_to_meet"
     when "you_seem_nice"
@@ -6,7 +6,7 @@ conversation(display_name="Megan")
       responses
 
     when "who_are_you"
-      statement#megan
+      statement#Kevin
       responses
         response#nice_to_meet.
           Nice to meet you!
@@ -22,12 +22,12 @@ conversation(display_name="Megan")
   statements
     statement#default
       text.
-        Welcome aboard the #[span.highlight Fog Owl!]
+        My name is Kevin and I am never gonna turn around and desert you.
       speech.
         Welcome aboard the #[break(strength="medium")] Fog Owl!
-    statement#megan
+    statement#Kevin
       text.
-        Hi there! My name is Megan.
+        ...as previously mentioned, my name is Kevin?
     statement#final
       text.
         Thank you!
